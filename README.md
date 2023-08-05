@@ -4,4 +4,12 @@
 
 ![alt text](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/files/welcome-to-the-dark-side-of-science-data-science.jpeg "join ds")
 
+## Syllabus:
+
+[Syllabus](https://docs.google.com/document/d/1tAaRCHoeIma43MntbAcI2sHvabbDHPrNvacfyJgReDM/edit#)
+
+Registration request (expired)
+
+## Course material:
+
 ### Week1: (TBD)
