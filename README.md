@@ -32,6 +32,6 @@ Assignment (Pandas with Youtube stat data): [![Open In Colab](https://raw.github
 
 5. Outliers with Log (Titanic DataSet): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week02_DataPrep/Lab5_Outliers_Boston_(optional).ipynb)
 
-Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week02_DataPrep/Assignment2_TitanicDataPrep_ToStudent.ipynb)
+<!--- Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week02_DataPrep/Assignment2_TitanicDataPrep_ToStudent.ipynb) --->
 
 
