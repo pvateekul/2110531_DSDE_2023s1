@@ -8,7 +8,7 @@
 
 ### Week01: Intro to Numpy, Pandas
 
-1. Numpy: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](/main/code/Week01_Intro_Pandas/1_Numpy.ipynb)
+1. Numpy: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](/code/Week01_Intro_Pandas/1_Numpy.ipynb)
 
 2. Pandas: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week01_Intro_Pandas/2_Pandas.ipynb)
 
