@@ -1,6 +1,6 @@
 # 2110531 Data Science and Data Engineering Tools @Chula 2023
 
-![alt text](https://github.com/pvateekul/2110531_DSDE_2023s1/raw/main/files/ds_cat.png"join ds")
+![alt text](https://github.com/pvateekul/2110531_DSDE_2023s1/raw/main/img/ds_cat.png "join ds")
 
 ## Syllabus:
 
