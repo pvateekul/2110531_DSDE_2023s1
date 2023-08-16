@@ -53,6 +53,4 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211053
 8. K-Means: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week03_ML/8_K_Means_Clustering_v2.ipynb)
 
 9. Market-Basket Analysis: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week03_ML/9_Market_Basket_Intro_v2.ipynb)
-8. K-Means: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week03_ML/8_K-Means-Clustering-v2.ipynb)
 
-9. Market-Basket Analysis: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week03_ML/9_Market_Basket_Intro-v2.ipynb)
