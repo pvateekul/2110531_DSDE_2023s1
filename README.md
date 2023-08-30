@@ -54,3 +54,16 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211053
 
 9. Market-Basket Analysis: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week03_ML/9_Market_Basket_Intro_v2.ipynb)
 
+### Week05-05: Intro to Deep Learning
+
+1. Image classification (basic): CIFAR10: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week05_Intro_Deep_Learning/1_Image_classification_CIFAR10_CNN.ipynb)
+
+2. Image classification (advanced): Animal: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week05_Intro_Deep_Learning/2_Image_classification_Animal_EfficientNetB0.ipynb)
+
+3. Object detection: VOCDetection: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week05_Intro_Deep_Learning/3_Object_detection_VOCDetection_FasterRCNN_MobileNet_V3.ipynb)
+
+4. Semantic segmentation: CamSeq2007: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week05_Intro_Deep_Learning/4_Semantic_segmentation_Camseq_deeplabv3_DataInGD.ipynb)
+
+5. Semantic segmentation: CamSeq2007: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week05_Intro_Deep_Learning/5_Time_series_forecasting_DataInGD.ipynb)
+
+Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week05_Intro_Deep_Learning/HW_To_student_assignment_pytorch.ipynb) 
