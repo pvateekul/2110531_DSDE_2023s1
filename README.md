@@ -70,13 +70,21 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211053
 
 1. Image classification with Hugging Face: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week06_AdvancedML/1_Huggingface_image_classification.ipynb)
 
-2. Image classification (advanced): Animal: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week05_Intro_Deep_Learning/2_Image_classification_Animal_EfficientNetB0.ipynb)
+2. Model Monitoring with MLflow: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week06_AdvancedML/2_MLflow.ipynb)
 
-3. Object detection: VOCDetection: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week05_Intro_Deep_Learning/3_Object_detection_VOCDetection_FasterRCNN_MobileNet_V3.ipynb)
+3-1. Model Monitoring with Tensorboard: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week06_AdvancedML/3-1_Image_classification_Animal_EfficientNetB0_Tensorboard.ipynb)
 
-4. Semantic segmentation: CamSeq2007: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week05_Intro_Deep_Learning/4_Semantic_segmentation_Camseq_deeplabv3_DataInGD.ipynb)
+3-2. Model Monitoring with Weight and Biases: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week06_AdvancedML/3-2_Image_classification_Animal_EfficientNetB0_WandB.ipynb)
 
-5. Time series Forecasting: Stock Price: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week05_Intro_Deep_Learning/5_Time_series_forecasting_DataInGD.ipynb)
+4-1. Diffusion on Text-to-Image: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week06_AdvancedML/4-1_diffusion_model_text_to_image.ipynb)
+
+4-2. Diffusion on Image-to-Image: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week06_AdvancedML/4-2_diffusion_model_image_to_image.ipynb)
+
+5. OpenAI ChatGPT (Simulated Toyota data): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week06_AdvancedML/5_OpenAI-ChatGPT-Toyota.ipynb)
+
+6-1. Text Classification (TF-IDF): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week06_AdvancedML/6-1_tfidf_for_Sentiment_Analysis.ipynb)
+
+6-1. Text Classification (BERT): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week06_AdvancedML/6-2_NLP_Transfer_Learning_for_Text_Classification_Using_Hugging_Face_Transformers_Trainer.ipynb)
 
 ### Week07: Big Data Architecture and Data Storage
 
