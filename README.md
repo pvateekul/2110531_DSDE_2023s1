@@ -84,7 +84,7 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211053
 
 6-1. Text Classification (TF-IDF): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week06_AdvancedML/6-1_tfidf_for_Sentiment_Analysis.ipynb)
 
-6-1. Text Classification (BERT): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week06_AdvancedML/6-2_NLP_Transfer_Learning_for_Text_Classification_Using_Hugging_Face_Transformers_Trainer.ipynb)
+6-2. Text Classification (BERT): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week06_AdvancedML/6-2_NLP_Transfer_Learning_for_Text_Classification_Using_Hugging_Face_Transformers_Trainer.ipynb)
 
 ### Week07: Big Data Architecture and Data Storage
 
