@@ -66,6 +66,18 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211053
 
 5. Time series Forecasting: Stock Price: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week05_Intro_Deep_Learning/5_Time_series_forecasting_DataInGD.ipynb)
 
+### Week08: Advanced ML
+
+1. Image classification with Hugging Face: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week06_AdvancedML/1_Huggingface_image_classification.ipynb)
+
+2. Image classification (advanced): Animal: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week05_Intro_Deep_Learning/2_Image_classification_Animal_EfficientNetB0.ipynb)
+
+3. Object detection: VOCDetection: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week05_Intro_Deep_Learning/3_Object_detection_VOCDetection_FasterRCNN_MobileNet_V3.ipynb)
+
+4. Semantic segmentation: CamSeq2007: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week05_Intro_Deep_Learning/4_Semantic_segmentation_Camseq_deeplabv3_DataInGD.ipynb)
+
+5. Time series Forecasting: Stock Price: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week05_Intro_Deep_Learning/5_Time_series_forecasting_DataInGD.ipynb)
+
 ### Week07: Big Data Architecture and Data Storage
 
 1. Simple Example [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week07_Architecture_and_Storage/Simple_Example.ipynb)
