@@ -91,3 +91,22 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211053
 1. Simple Example [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week07_Architecture_and_Storage/Simple_Example.ipynb)
    
 2. Redis Assignment [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week07_Architecture_and_Storage/Redis_Assignment.ipynb)
+
+### Week08: Data Extraction
+
+1. Basic Web Scraping [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week08_DataExtraction/1_basic_web_scraping.ipynb)
+
+2. Wikipedia Scaping [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week08_DataExtraction/2_wiki_scraping_example.ipynb)
+
+3. REST API Extraction [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week08_DataExtraction/3_REST_API_extraction.ipynb)
+
+4. Twitter Data Extraction [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week08_DataExtraction/4_Twitter_data_extraction.ipynb)
+NOTE: Do not forget to modify the bearer_token in twitter.yml file.
+
+
+5. Selenium [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week08_DataExtraction/5_Selenium.ipynb)
+
+6. Excel Extraction [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week08_DataExtraction/6_excel_extraction.ipynb)
+
+7. PDF Extraction [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week08_DataExtraction/7_pdf_extraction.ipynb)
+
