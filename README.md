@@ -106,3 +106,7 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211053
 
 6. PDF Extraction [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week08_DataExtraction/6_pdf_extraction.ipynb)
 
+
+### Week09: Data Ingestion
+
+The Kafka sample codes cannot be openned in Colab as it requires connection to local kafka server. See more details in [week09 code section](https://github.com/pvateekul/2110531_DSDE_2023s1/tree/main/code/Week09_DataIngestion).
